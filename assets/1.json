@@ -1,0 +1,19 @@
+{
+    "name": "Chakras",
+    "symbol": "ESO",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "5ZkYFBh6BZhLMkVNAA3emHtv62uxf9RXUpjUv7PuK7GV",
+          "share": 100
+        }
+      ]
+    }
+  }
